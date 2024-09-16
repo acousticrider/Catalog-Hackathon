@@ -6,5 +6,6 @@
  - 1.3 defines Find the Secret (C).
 
 2ND Test Case is Named Simply as Test Case 2 
+
 2nd test case is written in Java.
   
