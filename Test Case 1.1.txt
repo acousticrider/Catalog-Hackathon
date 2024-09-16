@@ -82,9 +82,8 @@ int main() {
     return 0;
 }
 
-THE OUTPUT IS:
-/tmp/yIHEeMLMNa.o
-Number of roots provided: 0
-Minimum number of roots required: 0
-Decoded roots:
+// THE OUTPUT IS:
+// Number of roots provided: 0
+// Minimum number of roots required: 0
+// Decoded roots:
 
