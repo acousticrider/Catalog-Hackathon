@@ -72,5 +72,5 @@ int main() {
     return 0;
 }
 
-THE OUTPUT IS :
-The constant term of the polynomial is: 3
+// THE OUTPUT IS :
+// The constant term of the polynomial is: 3
