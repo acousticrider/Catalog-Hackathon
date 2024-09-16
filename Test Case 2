@@ -100,3 +100,6 @@ public class RevisedSecretKeyFinder {
         System.out.println("The secret key is: " + secret);
     }
 }
+
+// THE OUTPUT IS:
+// The secret key is: 340282366920938463463353776806119035024
