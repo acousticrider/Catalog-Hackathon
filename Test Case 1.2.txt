@@ -54,10 +54,10 @@ int main() {
     return 0;
 }
 
-THE OUTPUT IS:
+// THE OUTPUT IS:
 
-Decoded roots:
-x: 1, y: 4
-x: 2, y: 7
-x: 3, y: 12
-x: 6, y: 39
+// Decoded roots:
+// x: 1, y: 4
+// x: 2, y: 7
+// x: 3, y: 12
+// x: 6, y: 39
